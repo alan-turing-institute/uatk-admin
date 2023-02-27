@@ -17,6 +17,12 @@ This repository contains high-level planning and governance information for the 
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science and was generated based on the [Turing Way's reproducible project template](https://github.com/alan-turing-institute/reproducible-project-template).
 
+## Getting started
+
+Please read:
+- [Code of conduct](CODE_OF_CONDUCT.md) 
+- [Contribution Guide](CONTRIBUTING.md)
+
 ## Communication within the project
 
 Since we're a distributed team, we aim to document everything so that it's visible to everyone in the project. 
