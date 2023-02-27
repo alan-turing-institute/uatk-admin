@@ -1,27 +1,21 @@
-# Template for setting up reproducible projects
+# The Science of Cities and Regions - Admin and planning
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*A The Turing Way inspired project to enable reproducibility in data science.*
-
 ## About this Repository
 
-This is a template for setting-up a research or data science project online, such as on GitHub.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+Welcome to the Science of Cities and Regions admin repository. The Science of Cities and Regions is an Alan Turing Institute project, aiming to produce a step change in the science of cities by the application of next generation AI and data science to address major challenges and opportunities for society, the economy and underpinning infrastructure. The project comprises four missions:
+- Urban Mobility
+- Land Use Planning
+- Spatial inequalities and sustainability
+- Digital Twins
+
+A core part of the project is the **Urban Analytics Technology Platform (UATP)**, an ecosystem of software tools, data products and documentation.
+
+This repository contains high-level planning and governance information for the project, onboarding information for new members of the team, and other admin and random information. It also contains high level information about the UATP ecosystem and links to the UATP repositories, data and documentation.
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update information on your README page with information about your project.
-
-<!--If reusing this repository, delete this section -->
-## About README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-<!--If reusing this repository, delete this section -->
 
 ## Repo Structure
 
@@ -66,9 +60,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 **Maintainers**
 
-This repository is jointly developed and maintained by Open Research Community Building (led by Dr. Malvika Sharan) and Research Application Management (led by Dr. Aida Mehonic) teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
-
-*Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
+This repository is jointly developed and maintained by the Science of Cities and Regions team at The Alan Turing Institute.
 
 🎯 Roadmap
 ---
@@ -92,44 +84,12 @@ This repository is jointly developed and maintained by Open Research Community B
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
 - [ ] Add badges
+- [ ] Add org chart
+- [ ] Add UATP and projects/apps conceptual diagram
+- [ ] Add wiki with descriptions and links to repos/projects/datasets
+
 
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-
-♻️ License
----
-
-This work is licensed under the MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation).
-You are free to share and adapt the material for any purpose, even commercially,
-as long as you provide attribution (give appropriate credit, provide a link to the license,
-and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
-licensor endorses you or your use, and with no additional restrictions.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=EKaroune" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://www.aleesteele.com"><img src="https://avatars.githubusercontent.com/u/18509789?v=4?s=100" width="100px;" alt="Anne Lee Steele"/><br /><sub><b>Anne Lee Steele</b></sub></a><br /><a href="#ideas-aleesteele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=aleesteele" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="Vicky Hellon"/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=vhellon" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="http://lappland.io"><img src="https://avatars.githubusercontent.com/u/51458?v=4?s=100" width="100px;" alt="Hilmar Lapp"/><br /><sub><b>Hilmar Lapp</b></sub></a><br /><a href="https://github.com/alan-turing-institute/reproducible-project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+For any queries or concerns, you can directly reach out to Grigorios Mingas by emailing [gmingas@turing.ac.uk](mailto:gmingas@turing.ac.uk).
