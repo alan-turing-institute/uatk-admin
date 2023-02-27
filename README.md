@@ -22,6 +22,7 @@ This repository follows the recommendations and guidance provided in *[The Turin
 Please read:
 - [Code of conduct](CODE_OF_CONDUCT.md) 
 - [Contribution Guide](CONTRIBUTING.md)
+- [Who is who](who-is-who.md)
 
 ## Communication within the project
 
@@ -52,8 +53,6 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │
 ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
 │
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
@@ -63,18 +62,6 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │
 ├── project_management <- Meeting notes and other project planning resources
 │
-├── src                <- Source code for use in this project.
-│   │
-│   ├── data           <- Scripts to download or generate data
-│   │   └── make_dataset.py
-│   │
-│   ├── models         <- Scripts to train models and then use trained models to make
-│   │   │                 predictions
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-│   │
-│   └── visualisation  <- Scripts to create exploratory and results oriented visualisations
-│       └── visualise.py
 └──
 ```
 
@@ -87,7 +74,7 @@ This repository is jointly developed and maintained by the Science of Cities and
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
+- [x] Add a README file
 - [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [ ] Add a [LICENSE](LICENSE.md)
 - [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
