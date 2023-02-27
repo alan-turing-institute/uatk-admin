@@ -17,6 +17,20 @@ This repository contains high-level planning and governance information for the 
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
 
+## Communication within the project
+
+Since we're a distributed team, we aim to document everything so that it's visible to everyone in the project. 
+
+### Regular meetings
+
+There is an overview of regular meetings at [`uatk-admin/meetings.md`](https://github.com/alan-turing-institute/uatk-admin/blob/main/meetings.md). Please edit if anything is missing or incorrect.
+
+### Communication channels
+
+- [Slack #ua-confidential channel](https://join.slack.com/share/enQtNDg3Nzc4MTI0MTIwMS0wYzhiOTdjOGRlODE2MmNjYzA3YmM2ZDBmZDQ3OTI2MzJkYjE3MGE0YWMzY2U5MWZiNDk3NjdiYmU2ZGJkZGE4) is for informal communication between team members.
+- [Slack #urbananalytics channel](https://join.slack.com/share/enQtNDg2NTAzOTYwMTY2Ny1mNmFhNjNlMjk0OTZkNTYxNWExMWE1NDU2ZmEwNjYzYmVmMzAyMWQxYmRkNWMyOTA2NTg0NWM2ZjA1NTNlNmYy) is an all-Turing channel where we post about UA activity.
+- Technical discussion should happen in issues on the relevant project's Github repo or in this repo for more high-level topics.
+
 ## Repo Structure
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
