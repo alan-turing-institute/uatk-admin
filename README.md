@@ -15,7 +15,7 @@ A core part of the project is the **Urban Analytics Technology Platform (UATP)**
 
 This repository contains high-level planning and governance information for the project, onboarding information for new members of the team, and other admin and random information. It also contains high level information about the UATP ecosystem and links to the UATP repositories, data and documentation.
 
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
+This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science and was generated based on the [Turing Way's reproducible project template](https://github.com/alan-turing-institute/reproducible-project-template).
 
 ## Communication within the project
 
