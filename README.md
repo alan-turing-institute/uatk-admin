@@ -23,6 +23,7 @@ Please read:
 - [Code of conduct](CODE_OF_CONDUCT.md) 
 - [Contribution Guide](CONTRIBUTING.md)
 - [Who is who](who-is-who.md)
+- [Projects](projects.md)
 
 ## Communication within the project
 
